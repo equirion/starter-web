@@ -25,5 +25,6 @@ showing how tu use Git and github
 
 this is another modification of that file
 
+##Copyright 2021 Evans Quirion
 modif 1 de 1
 
