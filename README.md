@@ -25,3 +25,5 @@ showing how tu use Git and github
 this is another modification of that file
 
 modif 1 de 1
+
+modif 2 de 2
