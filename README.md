@@ -9,6 +9,7 @@ showing how tu use Git and github
 ##Introduction
 ## how to contribute
 
+
 this is another modification of that file
 
 # this is a read me files
@@ -26,4 +27,3 @@ this is another modification of that file
 
 modif 1 de 1
 
-modif 2 de 2
