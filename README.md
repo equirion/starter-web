@@ -8,6 +8,8 @@ showing how tu use Git and github
 
 ##Introduction
 ## how to contribute
+please use git every time you can
+
 
 
 this is another modification of that file
