@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Evans Quirion	quirion@git.com
 
 # THANKS
 
-    <name>
+    <name>	
 
 # TECHNOLOGY COLOPHON
 
